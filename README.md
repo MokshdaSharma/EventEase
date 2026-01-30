@@ -71,27 +71,12 @@ src/
 | Bootstrap 5.3 | Responsive CSS framework |
 | Material UI 7.3 | Component library |
 | Context API | State management |
-| CSS3 | Styling |
+| CSS3 | Styling 
 
-## 🔐 Security Features
-
-✅ Input validation on all forms
-✅ XSS protection with React
-✅ Safe event data handling
-✅ Error boundary handling
-✅ No sensitive data exposure
-
-## 📈 Performance
-
-- ⚡ Lightning-fast page transitions (SPA)
-- 🎯 Optimized bundle with Vite
-- 🔄 Hot Module Replacement (HMR)
-- 📦 Minimal dependencies
-- 🚀 ~90+ Lighthouse score expected
+<img width="904" height="787" alt="Screenshot 2026-01-30 160858" src="https://github.com/user-attachments/assets/e9e7a36c-9bcb-48d2-8da7-390052c8d8db" />
+<img width="840" height="751" alt="Screenshot 2026-01-30 160846" src="https://github.com/user-attachments/assets/1f4e19e4-6aa2-46db-986b-300a801207bf" />
+<img width="524" height="659" alt="Screenshot 2026-01-30 160929" src="https://github.com/user-attachments/assets/f0d0dd13-1e34-4bf4-962a-cd2acb04bc75" />
+<img width="820" height="870" alt="Screenshot 2026-01-30 160911" src="https://github.com/user-attachments/assets/a12170db-c400-4839-9cca-557281b511ae" />
+|
 
 
----
-
-**EventEase** - Making college event management simple and enjoyable! 📅✨
-
-Built with ❤️ using modern React and web technologies.
